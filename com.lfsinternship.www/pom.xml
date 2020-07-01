@@ -20,7 +20,7 @@
   
   <properties>
   	<mysql.version>5.1.47</mysql.version>
-  	<log4j.version>2.3</log4j.version>
+  	<log4j.version>2.13.2</log4j.version>
   	<hibernate.version>5.0.1.Final</hibernate.version>
   	<hibernate.C3P0.version>5.0.2.Final</hibernate.C3P0.version>
   </properties>
